@@ -33,6 +33,6 @@ fun main(){
     val nbPairetPositive = calcul (
         calcul(num, ::nombrePositive) ,
         ::evenNambers)
-        println(Arrays.toString(nb))
+        println(Arrays.toString(num))
 
     }
